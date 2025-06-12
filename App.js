@@ -27,12 +27,13 @@ import {
 
 // --- IMPORTANT: PASTE YOUR FIREBASE CONFIG HERE ---
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_AUTH_DOMAIN",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_STORAGE_BUCKET",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyD5cgttWZYQkNHlP5XVJv3d4rbb4_C5fqQ",
+  authDomain: "gohatod-live-delivery.firebaseapp.com",
+  projectId: "gohatod-live-delivery",
+  storageBucket: "gohatod-live-delivery.firebasestorage.app",
+  messagingSenderId: "1083234636810",
+  appId: "1:1083234636810:web:24bdb39ec054503a143bf3",
+  measurementId: "G-TN9EF57YEJ"
 };
 
 // Initialize Firebase
